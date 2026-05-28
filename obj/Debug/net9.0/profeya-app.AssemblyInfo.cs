@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("profeya-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f04d1f7a7433053fbf06347a711b31dc49befc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("profeya-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("profeya-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

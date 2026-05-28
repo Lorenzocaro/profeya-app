@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fiore\\OneDrive\\Escritorio\\Git-Github\\profeya-app\\profeya-app.csproj",
+      "projectUniqueName": "C:\\Users\\fiore\\OneDrive\\Escritorio\\ProfeYaAbuuu\\profeya-app\\profeya-app.csproj",
       "projectName": "profeya-app",
-      "projectPath": "C:\\Users\\fiore\\OneDrive\\Escritorio\\Git-Github\\profeya-app\\profeya-app.csproj",
+      "projectPath": "C:\\Users\\fiore\\OneDrive\\Escritorio\\ProfeYaAbuuu\\profeya-app\\profeya-app.csproj",
       "packagesPath": "C:\\Users\\fiore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fiore\\OneDrive\\Escritorio\\Git-Github\\profeya-app\\obj\\",
+      "outputPath": "C:\\Users\\fiore\\OneDrive\\Escritorio\\ProfeYaAbuuu\\profeya-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
