@@ -117,6 +117,16 @@ ProfeYa busca simplificar ese proceso mediante una plataforma donde los usuarios
 # 📸 Capturas de pantalla
 <img width="1897" height="1017" alt="image" src="https://github.com/user-attachments/assets/441dae3f-8e71-467c-a04a-292b2c5f5fe5" />
 
+Petta Federico:
+<img width="652" height="165" alt="1" src="https://github.com/user-attachments/assets/183dee86-738b-4dd3-ac4b-86b655a6400d" />
+
+<img width="805" height="261" alt="2" src="https://github.com/user-attachments/assets/3bc60f60-0287-4f51-a95a-bd013ef11355" />
+
+<img width="813" height="262" alt="3" src="https://github.com/user-attachments/assets/ad8072b6-b902-43d1-aa00-6f19b458c2ad" />
+
+
+
+
 
 # 🎯 Objetivo académico
 
